@@ -7,6 +7,4 @@ O firma si-a creat o infrastructura prin care seful monitorizeaza angajatii prez
   
   •câte o fereastra pentru fiecare angajat: Atunci când angajatul vine la serviciu, introduce ora sosirii si declanseaza un buton "prezent". Imediat dupa declansarea butonului, seful vede în lista lui ca angajatul este prezent. În continuare, cât timp angajatul sta la serviciu, el primeste si, în consecinta, vede în fereastra lui, sarcinile transmise de sef. La plecare, angajatul închide fereastra, moment în care seful este notificat de delogarea acestuia din sistem. 
   
-  Cerinta custom:
-  
   Seful poate introduce un deadline (optional) pentru fiecare sarcina. Angajatul primeste un bonus in functie de cat de repede rezolva sarcina. Cand se apropie deadline-ul, angajatul este notificat de apropierea deadline-ului.
