@@ -9,4 +9,4 @@ O firma si-a creat o infrastructura prin care seful monitorizeaza angajatii prez
   
   Cerinta custom:
   
-    Seful poate introduce un deadline (optional) pentru fiecare sarcina. Angajatul primeste un bonus in functie de cat de repede rezolva sarcina. Cand se apropie deadline-ul, angajatul este notificat de apropierea deadline-ului.
+  Seful poate introduce un deadline (optional) pentru fiecare sarcina. Angajatul primeste un bonus in functie de cat de repede rezolva sarcina. Cand se apropie deadline-ul, angajatul este notificat de apropierea deadline-ului.
